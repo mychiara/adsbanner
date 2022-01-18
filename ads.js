@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : 'efd8f0b66570b7245d0eced4eafac021',
+		'key' : '6abd20331a30cbdfe9589653b336f61b',
 		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
+		'height' : 90,
+		'width' : 728,
 		'params' : {}
 	};
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/efd8f0b66570b7245d0eced4eafac021/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/6abd20331a30cbdfe9589653b336f61b/invoke.js"></scr' + 'ipt>');
