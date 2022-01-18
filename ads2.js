@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : '98997cebcc422dcf318d719442cb1a7d',
+		'key' : 'efd8f0b66570b7245d0eced4eafac021',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://nearestaxe.com/98997cebcc422dcf318d719442cb1a7d/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/efd8f0b66570b7245d0eced4eafac021/invoke.js"></scr' + 'ipt>');
