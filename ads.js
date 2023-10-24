@@ -1,8 +1,9 @@
-	atOptions = {
-		'key' : 'd04b5e8712960b5564b30644da7c67ea',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/d04b5e8712960b5564b30644da7c67ea/invoke.js"></scr' + 'ipt>');
+  // Redirect to the first URL in a new tab after 3 seconds
+  setTimeout(function() {
+    window.open('https://resepi-azhiekitchen.blogspot.com', '_blank');
+  }, 100); // 3000 milliseconds = 3 seconds
+
+  // Redirect to the second URL in a new tab after another 3 seconds
+  setTimeout(function() {
+    window.open('https://www.toprevenuegate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731', '_blank');
+  }, 1000); // 6000 milliseconds = 6 seconds
